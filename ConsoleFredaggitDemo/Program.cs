@@ -12,7 +12,8 @@ namespace ConsoleFredaggitDemo
         {
             Console.WriteLine("¡¡nuevo!!");
             Console.WriteLine("¡¡nuevo commit!!");
-            Console.WriteLine("¡¡nuevo commit desde git!!");
+            Console.WriteLine("¡¡nuevo commit desde gitt!");
+            Console.WriteLine("¡¡nuevo commit desde gitt!");
         }
     }
 }
