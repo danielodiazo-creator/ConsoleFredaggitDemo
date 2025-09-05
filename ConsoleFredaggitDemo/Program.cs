@@ -10,7 +10,7 @@ namespace ConsoleFredaggitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("nuevo!!");
+            Console.WriteLine("¡¡nuevo!!");
         }
     }
 }
