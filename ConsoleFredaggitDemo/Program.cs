@@ -11,6 +11,8 @@ namespace ConsoleFredaggitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("¡¡nuevo!!");
+            Console.WriteLine("¡¡nuevo commit!!");
+            Console.WriteLine("¡¡nuevo commit desde git!!");
         }
     }
 }
